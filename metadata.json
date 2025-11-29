@@ -1,0 +1,5 @@
+{
+  "name": "Excel Summarizer AI",
+  "description": "A powerful tool to batch process Excel files from a folder, extract specific data points based on configurable rules (mimicking VBA logic), and generate AI-powered insights using Gemini.",
+  "requestFramePermissions": []
+}
